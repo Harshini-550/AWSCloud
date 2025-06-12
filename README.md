@@ -42,13 +42,13 @@ scanf("%d%d",&a,&b);
 
 ###Tousechecklist
 
--[X]AWS
+-[X] AWS
 
--[X]Linux
+-[X] Linux
 
--[]Devops
+-[] Devops
 
--[]Git
+-[] Git
 
 ~StrikeThrough~
 
