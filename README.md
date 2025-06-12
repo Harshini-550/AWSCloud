@@ -4,16 +4,16 @@
 **Bold**
 ***Bold-italic***
 
-###orderd list
-1.fist line
-2.seond line
-3.thirsd line
+###orderdlist
+1. fist line
+2. seond line
+3. thirsd line
 
-###Unordered list
--First line
--Second line
-+Third line
-+Fourth line
+###Unorderedlist
+- Firstline
+- Secondline
++ Third line
++ Fourth line
 
 >Black Qoute
 
