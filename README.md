@@ -28,12 +28,7 @@ int a,b;
 printf("Enter valus:");
 scanf("%d%d",&a,&b);
 }`
-```#inlcudstdio.h>
-int main(){
-int a,b;
-printf("Enter valus:");
-scanf("%d%d",&a,&b);
-}```
+
 #####Horizontal line
 ----
 ####Insert a line url
