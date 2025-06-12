@@ -29,7 +29,7 @@ scanf("%d%d",&a,&b);
 ----
 
 ####Insert a line url
-[Harshini](https://google.com)\
+[Harshini](https://google.com)
 
 ####Insert an image
 ![My first Image](https://www.google.com/imgres?q=nature%20drawing&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D389854700564897&imgrefurl=https%3A%2F%2Fwww.facebook.com%2F100086211094170%2Fposts%2Fattractive-nature-drawing-art-ideas-for-everyone%2F389855457231488%2F&docid=e3F3-38zk2Ph2M&tbnid=2tP2nKNyQ8rN9M&vet=12ahUKEwiEofrzleuNAxVowTgGHRpPF6oQM3oECBwQAA..i&w=633&h=634&hcb=2&ved=2ahUKEwiEofrzleuNAxVowTgGHRpPF6oQM3oECBwQAA)
@@ -39,9 +39,12 @@ scanf("%d%d",&a,&b);
 -[X]Linux
 -[]Devops
 -[]Git
+
 ~StrikeThrough~
+
 ###Footnode[^1]
 [^1]:Thankful
+
 ##### To insert the table
 |Name|College|District|
 |----|---|---|
